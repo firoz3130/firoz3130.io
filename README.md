@@ -1,3 +1,3 @@
-# TEDxMAZE
+# firoz3130.io
 
-A game made for the ZENITH
+Game developed for promotion Of TEDx Event ZENITH
